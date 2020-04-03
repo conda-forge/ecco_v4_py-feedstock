@@ -9,7 +9,7 @@ source:
   sha256: 419da92d36a739586f31c9b0bc132c1fd91b8cb33b5ef58064f64b2caa4a954b
 
 build:
-  number: 0
+  number: 1
   script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
@@ -21,7 +21,7 @@ requirements:
     - future
     - pathlib
     - numpy
-    - matplotlib
+    - matplotlib-base
     - cartopy
     - dask
     - xarray
