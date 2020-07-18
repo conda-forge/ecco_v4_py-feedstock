@@ -5,7 +5,7 @@ Home: https://github.com/ECCO-GROUP/ECCOv4-py
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python package for post processing and analyzing ECCOv4 output
 
