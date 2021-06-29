@@ -20,6 +20,7 @@ requirements:
     - python
     - future
     - pathlib
+    - netcdf
     - numpy
     - matplotlib-base
     - cartopy
