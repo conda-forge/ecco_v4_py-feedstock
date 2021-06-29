@@ -17,27 +17,19 @@ requirements:
     - python
     - pip
   run:
-  - aiohttp
-  - codecov
-  - cartopy 
-  - cmocean
-  - dask
-  - docrep
-  - fsspec
-  - future
-  - geos
-  - matplotlib
-  - netcdf4
-  - numpy
-  - pathlib
-  - proj
-  - pytest
-  - pytest-cov
-  - pyresample
-  - scipy
-  - xarray
-  - xgcm 
-  - xmitgcm 
+    - python
+    - future
+    - pathlib
+    - netcdf
+    - numpy
+    - matplotlib-base
+    - cartopy
+    - dask
+    - xarray
+    - pyresample
+    - python-dateutil
+    - xmitgcm
+    - xgcm
 
 test:
   imports:
