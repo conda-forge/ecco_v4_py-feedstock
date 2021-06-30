@@ -30,7 +30,6 @@ requirements:
     - xarray
     - pyresample
     - python-dateutil
-    - urllib3
     - xmitgcm
     - xgcm
 
