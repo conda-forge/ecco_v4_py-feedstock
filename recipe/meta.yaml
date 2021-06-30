@@ -12,7 +12,8 @@ build:
   number: 2
   script: {{ PYTHON }} -m pip install . -vv
   skip: true  # [py<37]
-
+  skip: true # [win]
+  
 requirements:
   host:
     - python
@@ -21,7 +22,6 @@ requirements:
     - python
     - future
     - pathlib
-    - brotli <= 1.0.7 
     - netcdf4
     - numpy
     - matplotlib-base
