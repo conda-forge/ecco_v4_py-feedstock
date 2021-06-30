@@ -21,6 +21,7 @@ requirements:
     - python
     - future
     - pathlib
+    - brotlipy
     - netcdf4
     - numpy
     - matplotlib-base
@@ -29,6 +30,7 @@ requirements:
     - xarray
     - pyresample
     - python-dateutil
+    - urllib3
     - xmitgcm
     - xgcm
 
