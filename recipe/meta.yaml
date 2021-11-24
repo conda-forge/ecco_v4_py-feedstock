@@ -1,4 +1,4 @@
-{% set version = "1.5.3" %}
+{% set version = "1.5.2" %}
 
 package:
   name: ecco_v4_py
@@ -9,7 +9,7 @@ source:
   sha256: a3dc8ede810a8d6d50ca7602bde5c895e503adc08896e70adaf7393ed96c68d1
 
 build:
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
   skip: true  # [py<37]
 
