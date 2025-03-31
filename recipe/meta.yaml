@@ -20,7 +20,6 @@ requirements:
   run:
     - python
     - future
-    - pathlib
     - netcdf4
     - numpy
     - matplotlib-base
