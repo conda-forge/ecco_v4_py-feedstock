@@ -8,6 +8,7 @@ set -xe
 
 MINIFORGE_HOME=${MINIFORGE_HOME:-${HOME}/miniforge3}
 MINIFORGE_HOME=${MINIFORGE_HOME%/} # remove trailing slash
+export CONDA_BLD_PATH="${CONDA_BLD_PATH:-${MINIFORGE_HOME}/conda-bld}"
 
 ( startgroup "Provisioning base env with micromamba" ) 2> /dev/null
 MICROMAMBA_VERSION="1.5.10-0"

@@ -37,6 +37,8 @@ echo Removing %MAMBA_ROOT_PREFIX%
 del /S /Q "%MAMBA_ROOT_PREFIX%" >nul
 del /S /Q "%MICROMAMBA_TMPDIR%" >nul
 
+call :end_group
+
 call :start_group "Configuring conda"
 
 :: Activate the base conda environment
