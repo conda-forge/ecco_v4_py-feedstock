@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/ecco_v4_py/ecco_v4_py-{{ version }}.tar.gz
-  sha256: 7f24b52df7d7280eed9f6361cdb4f688a815218bcb6d9d9b00437e4365b337b3
+  sha256: 7fe0fec93911e7f53b23b7cd4c4ac657792c90a82a3e57f40b44ae3fc0b86115
 
 build:
-  number: 3
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
   skip: True  # [py<37]
   skip: True  # [win]
