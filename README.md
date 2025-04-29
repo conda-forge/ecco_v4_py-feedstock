@@ -100,44 +100,6 @@ Current build status
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.9.____cpython" alt="variant">
                 </a>
               </td>
-            </tr><tr>
-              <td>win_64_python3.10.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.10.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.11.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.11.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.12.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.12.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.13.____cp313</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.13.____cp313" alt="variant">
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.12.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_python3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9422&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ecco_v4_py-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.9.____cpython" alt="variant">
-                </a>
-              </td>
             </tr>
           </tbody>
         </table>
@@ -151,7 +113,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-ecco_v4_py-green.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ecco__v4__py-green.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) |
 
 Installing ecco_v4_py
 =====================
