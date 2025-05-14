@@ -113,7 +113,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-ecco_v4_py-green.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ecco__v4__py-green.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ecco_v4_py.svg)](https://anaconda.org/conda-forge/ecco_v4_py) |
 
 Installing ecco_v4_py
 =====================
