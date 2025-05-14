@@ -21,18 +21,38 @@ requirements:
     - setuptools
     - wheel
   run:
-    - python
+    - aiohttp
+    - codecov
+    - cartopy>=0.18.0
+    - cmocean
+    - dask[complete]
+    - docrep
+    - fsspec
     - future
+    - geos
+    - matplotlib
     - netcdf4
+    - numba
     - numpy
-    - matplotlib-base
-    - cartopy
-    - dask
-    - xarray
+    - pip
+    - pre-commit
+    - proj
+    - pytest
+    - python
+    - pytest-cov
+    - pytest-xdist
     - pyresample
+    - scipy
+    - xarray
+    - xgcm>=0.5.0
+    - xmitgcm>=0.5.1
+    - typing_extensions
+    - Bottleneck
     - python-dateutil
-    - xmitgcm
-    - xgcm
+    - requests
+    - s3fs
+    - tqdm
+    - pandas
 
 test:
   imports:
