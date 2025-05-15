@@ -33,7 +33,7 @@ requirements:
     - python-dateutil
     - xmitgcm
     - xgcm
-    - xmitgcm>=0.5.1
+    - xmitgcm >= 0.5.1
     - typing_extensions
     - Bottleneck
     - python-dateutil
