@@ -22,25 +22,25 @@ requirements:
     - wheel
   run:
     - python
+    - bottleneck
+    - cartopy
+    - cmocean
+    - dask[complete]
+    - fsspec
     - future
+    - matplotlib
     - netcdf4
     - numpy
-    - matplotlib-base
-    - cartopy
-    - dask
-    - xarray
+    - pandas
     - pyresample
-    - python-dateutil
-    - xmitgcm
-    - xgcm
-    - xmitgcm
-    - typing_extensions
-    - Bottleneck
     - python-dateutil
     - requests
     - s3fs
     - tqdm
-    - pandas
+    - typing_extensions
+    - xarray
+    - xgcm
+    - xmitgcm
 
 test:
   imports:
