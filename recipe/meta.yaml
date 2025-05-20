@@ -25,10 +25,10 @@ requirements:
     - bottleneck
     - cartopy
     - cmocean
-    - dask[complete]
+    - dask
     - fsspec
     - future
-    - matplotlib
+    - matplotlib-base
     - netcdf4
     - numpy
     - pandas
