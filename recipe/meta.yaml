@@ -1,4 +1,4 @@
-{% set version = "1.8.0" %}
+{% set version = "1.8.1" %}
 
 package:
   name: ecco_v4_py
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/ecco_v4_py/ecco_v4_py-{{ version }}.tar.gz
-  sha256: 601ad3d4f048f0234bcec96d3d783662c58a7670b86a379f997803e96229d9f2
+  sha256: ff0d37987feafe9872bd2877049c8d0d6e16e295b00fda3d4afba300f0921a7b
 
 build:
   number: 0
